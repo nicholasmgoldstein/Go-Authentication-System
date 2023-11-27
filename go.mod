@@ -1,4 +1,4 @@
-module github.com/plato5-auth
+module github.com/auth
 
 go 1.20
 
