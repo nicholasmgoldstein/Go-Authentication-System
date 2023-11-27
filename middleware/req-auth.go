@@ -8,8 +8,8 @@ import (
 
 	"github.com/gin-gonic/gin"
 	"github.com/golang-jwt/jwt/v4"
-	"github.com/plato5-auth/initializers"
-	"github.com/plato5-auth/models"
+	"github.com/auth/initializers"
+	"github.com/auth/models"
 )
 
 func ReqAuth(c *gin.Context) {
